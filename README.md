@@ -6,6 +6,6 @@ What I love about programming is that you can consistently create logic that int
 other parts of the computer and/or other applications with no limitations besides your own ability. 
 
 - 👀 I’m interested in: Android Development
-- 🌱 I’m currently learning: Kotlin & Android Studio
+- 🌱 I’m currently learning: Android Development
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [Twitter @196Sebastian](https://twitter.com/196Sebastian)
