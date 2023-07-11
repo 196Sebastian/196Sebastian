@@ -9,5 +9,4 @@ other parts of the computer and/or other applications with no limitations beside
 - 🌱 I’m currently learning: Android Development
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [@196Sebastian](https://twitter.com/196Sebastian) 
-- 📝 Notion Notes: [Android Core](https://www.notion.so/Android-Core-c0d3a2ad842542f484b752c3813bbe03) 〰️ [Android Fundamentals](https://www.notion.so/Android-Fundamentals-ceed58d62d5b4691b5557620a21f1a1f)
 - 🌎 [Portfolio](https://sebastiancorrea.netlify.app/)
