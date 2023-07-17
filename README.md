@@ -1,4 +1,4 @@
-Hello World, I'm [Sebastian Correa!]
+Hello World, I'm Sebastian Correa!
 
 A bit about myself, I’m a software engineer originally from Chicago! 
 As of now, I am focused on Android Development and Kotlin but still wish to explore many fields. 
