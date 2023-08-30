@@ -1,6 +1,6 @@
 Hello World, I'm Sebastian Correa!
 
-A bit about myself, I’m a software engineer originally from Chicago, now based in Yokohama, Kanagawa, Japan! 
+A bit about myself, I’m a software engineer originally from Chicago, now based in Yokohama City, Japan! 
 As of now, I am focused on Android Development and Kotlin but still wish to explore many fields. 
 What I love about programming is that you can consistently create logic that interacts with the 
 other parts of the computer and/or other applications with no limitations besides your own ability. 
