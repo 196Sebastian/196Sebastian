@@ -11,5 +11,4 @@ other parts of the computer and/or other applications with no limitations beside
 - 📝 [Resume](https://docs.google.com/document/d/18HKbGytyV5RKoMf6APqIryK6sM86nv54nq1Q-DZoyd4/edit?usp=sharing)
 - 🌎 [Portfolio](https://sebastiancorrea.netlify.app/)
 - 📫 How to reach me:
-  * Twitter: [@196Sebastian](https://twitter.com/196Sebastian)
   * Linkedln: [Sebastian Correa](https://www.linkedin.com/in/sebastian-correa-b6858b177/)
