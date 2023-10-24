@@ -1,12 +1,7 @@
-Hello World, I'm Sebastian Correa!
+Hello World, I'm Sebastian Correa! 
 
-A bit about myself, I’m a software engineer originally from Chicago, now based in Yokohama City, Japan! 
-As of now, I am focused on Android Development and Kotlin but still wish to explore many fields. 
-What I love about programming is that you can consistently create logic that interacts with the 
-other parts of the computer and/or other applications with no limitations besides your own ability. 
-
-- 👀 I’m interested in: Android Development
-- 🌱 I’m currently learning: Android Development
+- 👀 I’m interested in: Android & Full Stack Development
+- 🌱 I’m currently learning: Android & Full Stack Development
 - 😄 Pronouns: he/him
 - 📝 [Resume](https://docs.google.com/document/d/18HKbGytyV5RKoMf6APqIryK6sM86nv54nq1Q-DZoyd4/edit?usp=sharing)
 - 🌎 [Portfolio](https://sebastiancorrea.netlify.app/)
